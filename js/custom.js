@@ -267,7 +267,7 @@
 			});
 		};
 		  
-		$('#GoToHome, #GoToFeatures, #GoToVideo, #GoToTestimonials, #GoToFAQ, #GoToSubscribe' ).scrollTo({ speed: 1400 });
+		$('#GoToHome, #GoToFeatures, #GoToDonate, #GoToTestimonials, #GoToFAQ, #GoToSubscribe' ).scrollTo({ speed: 1400 });
 
 	});
 	
