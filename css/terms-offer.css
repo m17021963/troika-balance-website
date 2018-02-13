@@ -1,1 +1,35 @@
 
+* { 
+  margin:0;
+  padding:0;
+}
+
+html {
+  background-color:#235789;
+  margin:0;
+  padding:0;
+}
+
+body {
+  margin: 0 20%;
+  padding:1em 2em;
+  background-color: #fdfffc;
+  color:#020100;
+  font-family:tahoma;
+}
+
+h1 {
+  margin:0 0 0.1em 0;
+  text-align:center;
+}
+
+h2 {
+  margin:0 0 1em 0;
+  text-align:center;
+}
+
+p {
+  margin: 0 0 1em 0;
+  font-size:0.9em;
+  text-align:justify;
+}
