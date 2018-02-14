@@ -1,11 +1,10 @@
-
 * { 
   margin:0;
   padding:0;
 }
 
 html {
-  background-color:#235789;
+  background-color:#78A1BB;
   margin:0;
   padding:0;
 }
@@ -13,8 +12,8 @@ html {
 body {
   margin: 0 20%;
   padding:1em 2em;
-  background-color: #fdfffc;
-  color:#020100;
+  background-color: #EBF5EE;
+  color:#283044;
   font-family:tahoma;
 }
 
